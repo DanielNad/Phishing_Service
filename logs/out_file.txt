@@ -1,6 +1,2 @@
-Server is running on port: 3000
-Database Connected
-2020-12-14T17:29:22: Server is running on port: 3000
-2020-12-14T17:29:27: Database Connected
-2020-12-14T17:30:12: Server is running on port: 3000
-2020-12-14T17:30:13: Database Connected
+2020-12-16T19:07:25: Database Connected
+2020-12-16T19:07:25: Server connected on port 3000
