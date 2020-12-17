@@ -1,2 +1,0 @@
-2020-12-16T19:07:25: Database Connected
-2020-12-16T19:07:25: Server connected on port 3000
