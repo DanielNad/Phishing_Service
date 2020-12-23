@@ -1,0 +1,6 @@
+2020-12-20T11:39:36: Database Connected
+2020-12-20T11:39:36: Server connected on port 3000
+2020-12-20T11:45:45: Adding www.ynet.co.il domain to the database.
+2020-12-20T11:45:46: www.ynet.co.il domain was added to the database.
+2020-12-21T13:08:19: Database Connected
+2020-12-21T13:08:19: Server connected on port 3000
